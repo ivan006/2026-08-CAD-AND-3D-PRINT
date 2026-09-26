@@ -1,0 +1,1414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="594mm"
+   viewBox="0 0 420 594"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="drawing big.svg">
+  <defs
+     id="defs2">
+    <color-profile
+       id="color-profile640"
+       xlink:href="C:\WINDOWS\system32\spool\drivers\color\AdobeRGB1998.icc"
+       name="Adobe-RGB--1998-" />
+    <linearGradient
+       osb:paint="solid"
+       id="Engrave">
+      <stop
+         id="stop4533"
+         offset="0"
+         style="stop-color:#00ff02;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="Half_Cut">
+      <stop
+         id="stop4527"
+         offset="0"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="Cut">
+      <stop
+         id="stop4521"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path855" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path858" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path860" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path862" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-8">
+      <path
+         id="path859"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-8">
+      <path
+         id="path862-6"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path864"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path866"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-0" />
+    <symbol
+       id="*PAPER_SPACE-6" />
+    <marker
+       id="DistanceX-5"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path6981" />
+    </marker>
+    <pattern
+       id="Hatch-6"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path6984" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path6986" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path6988" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-3" />
+    <symbol
+       id="*PAPER_SPACE-7" />
+    <marker
+       id="DistanceX-9"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path13070" />
+    </marker>
+    <pattern
+       id="Hatch-9"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path13073" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path13075" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path13077" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-1" />
+    <symbol
+       id="*PAPER_SPACE-61" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-3">
+      <path
+         id="path1574"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-4">
+      <path
+         id="path1577"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1579"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1581"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-7" />
+    <symbol
+       id="*PAPER_SPACE-72" />
+    <marker
+       id="DistanceX-95"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path912" />
+    </marker>
+    <pattern
+       id="Hatch-5"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path915" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path917" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path919" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-10" />
+    <symbol
+       id="*PAPER_SPACE-9" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-0">
+      <path
+         id="path926"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-45">
+      <path
+         id="path929"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path931"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path933"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-5" />
+    <symbol
+       id="*PAPER_SPACE-5" />
+    <marker
+       id="DistanceX-2"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1106" />
+    </marker>
+    <pattern
+       id="Hatch-50"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1109" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1111" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1113" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-2" />
+    <symbol
+       id="*PAPER_SPACE-1" />
+    <marker
+       id="DistanceX-35"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1280" />
+    </marker>
+    <pattern
+       id="Hatch-53"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1283" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1285" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1287" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-02" />
+    <symbol
+       id="*PAPER_SPACE-54" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-7">
+      <path
+         id="path967"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-87">
+      <path
+         id="path970"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path972"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path974"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-022" />
+    <symbol
+       id="*PAPER_SPACE-3" />
+    <marker
+       id="DistanceX-25"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path979" />
+    </marker>
+    <pattern
+       id="Hatch-1"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path982" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path984" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path986" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-4" />
+    <symbol
+       id="*PAPER_SPACE-32" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-72">
+      <path
+         id="path1037"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-3">
+      <path
+         id="path1040"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1042"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1044"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-6" />
+    <symbol
+       id="*PAPER_SPACE-77" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-97">
+      <path
+         id="path1051"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-31">
+      <path
+         id="path1054"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1056"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1058"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-106" />
+    <symbol
+       id="*PAPER_SPACE-12" />
+    <marker
+       id="DistanceX-4"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1088" />
+    </marker>
+    <pattern
+       id="Hatch-41"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1091" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1093" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1095" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-8" />
+    <symbol
+       id="*PAPER_SPACE-58" />
+    <marker
+       id="DistanceX-77"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path3215" />
+    </marker>
+    <pattern
+       id="Hatch-7"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3218" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3220" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3222" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-41" />
+    <symbol
+       id="*PAPER_SPACE-4" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-1">
+      <path
+         id="path1104"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-96">
+      <path
+         id="path1107"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1109-3"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1111-6"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-00" />
+    <symbol
+       id="*PAPER_SPACE-2" />
+    <marker
+       id="DistanceX-82"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1117" />
+    </marker>
+    <pattern
+       id="Hatch-63"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1120" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1122" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1124" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-9" />
+    <symbol
+       id="*PAPER_SPACE-19" />
+    <marker
+       id="DistanceX-05"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1087" />
+    </marker>
+    <pattern
+       id="Hatch-92"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1090" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1092" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1094" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-72" />
+    <symbol
+       id="*PAPER_SPACE-20" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-36">
+      <path
+         id="path1133"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-634">
+      <path
+         id="path1136"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1138"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1140"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-21" />
+    <symbol
+       id="*PAPER_SPACE-23" />
+    <marker
+       id="DistanceX-30"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1182" />
+    </marker>
+    <pattern
+       id="Hatch-2"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1185" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1187" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1189" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-103" />
+    <symbol
+       id="*PAPER_SPACE-8" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-44">
+      <path
+         id="path1120-7"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-90">
+      <path
+         id="path1123"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1125"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1127"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-51" />
+    <symbol
+       id="*PAPER_SPACE-81" />
+    <marker
+       id="DistanceX-46"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1140-9" />
+    </marker>
+    <pattern
+       id="Hatch-16"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1143" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1145" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1147" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-18" />
+    <symbol
+       id="*PAPER_SPACE-50" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-71">
+      <path
+         id="path1169"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-76">
+      <path
+         id="path1172"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1174"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1176"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-58" />
+    <symbol
+       id="*PAPER_SPACE-75" />
+    <marker
+       id="DistanceX-01"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1168" />
+    </marker>
+    <pattern
+       id="Hatch-54"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1171" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1173" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1175" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-59" />
+    <symbol
+       id="*PAPER_SPACE-0" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-33">
+      <path
+         id="path1185-2"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-86">
+      <path
+         id="path1188"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1190"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1192"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-11" />
+    <symbol
+       id="*PAPER_SPACE-66" />
+    <marker
+       id="DistanceX-333"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1197" />
+    </marker>
+    <pattern
+       id="Hatch-37"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1200" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1202" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1204" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-50" />
+    <symbol
+       id="*PAPER_SPACE-756" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-38">
+      <path
+         id="path1235"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-0">
+      <path
+         id="path1238"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1240"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1242"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-05" />
+    <symbol
+       id="*PAPER_SPACE-78" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-258">
+      <path
+         id="path1787"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-83">
+      <path
+         id="path1790"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1792"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1794"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-80" />
+    <symbol
+       id="*PAPER_SPACE-26" />
+    <marker
+       id="DistanceX-84"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1240-1" />
+    </marker>
+    <pattern
+       id="Hatch-88"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1243" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1245" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1247" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-53" />
+    <symbol
+       id="*PAPER_SPACE-59" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-74">
+      <path
+         id="path1250"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-48">
+      <path
+         id="path1253"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path1255"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path1257"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-98" />
+    <symbol
+       id="*PAPER_SPACE-36" />
+    <marker
+       id="DistanceX-79"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1264" />
+    </marker>
+    <pattern
+       id="Hatch-65"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1267" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1269" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path1271" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-83" />
+    <symbol
+       id="*PAPER_SPACE-612" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-78">
+      <path
+         id="path4807"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-74"
+       height="8">
+      <path
+         id="path4810"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path4812"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path4814"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-215" />
+    <symbol
+       id="*PAPER_SPACE-47" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.18024601"
+     inkscape:cx="1589.2913"
+     inkscape:cy="2246.9291"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="958"
+     inkscape:window-height="1000"
+     inkscape:window-x="953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="0"
+       id="g4821"
+       transform="matrix(1.0673516,0,0,1.0673516,-29.640848,-1111.5354)" />
+    <path
+       id="path4823"
+       style="fill:none;stroke:#ff0000;stroke-width:0.0403408;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 389.90399,304.42843 c 0,-111.39826 -90.30607,-201.70417 -201.70425,-201.70417 -111.398175,0 -201.704249,90.30591 -201.704249,201.70417 0,111.39825 90.306074,201.70415 201.704249,201.70415 111.39818,0 201.70425,-90.3059 201.70425,-201.70415 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <path
+       id="path14"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.491156"
+       d="M 198.52419,580.99253 C 143.27307,576.19691 84.863564,539.76296 74.89134,481.7547 69.904324,450.62819 77.178985,417.729 64.963118,387.8282 39.55783,382.41029 17.601513,361.15065 17.301767,334.13123 14.503971,311.6696 28.298812,292.26923 37.376353,273.42474 37.191325,239.50357 18.915022,207.57291 24.705057,173.13096 33.236764,98.015108 93.284195,30.96908 168.45358,18.015872 241.0824,2.3145347 325.66906,24.839809 368.98531,88.354443 c 30.93271,40.964547 43.50383,96.178927 27.31655,145.592407 -2.70503,15.67912 -12.47417,34.96446 -0.88129,48.99959 19.5782,28.21855 22.63951,75.10038 -9.94148,95.11225 -26.82765,3.65985 -31.20165,28.73516 -30.34868,52.10674 0.60103,35.0597 -0.60484,74.07367 -25.88648,101.3825 -31.1968,35.57257 -79.71417,52.78933 -126.43667,49.59269 l -4.28505,-0.15184 z m 39.07476,-6.96702 c 49.43978,-7.85349 101.66827,-41.49618 109.15475,-94.57225 3.88757,-27.05461 -0.64217,-54.92093 6.14734,-81.65526 -11.21672,-5.24299 -6.44281,41.86606 -10.2216,10.92418 1.08983,-8.36957 0.94715,-27.78806 -3.20557,-7.96541 -1.72529,12.81611 -4.85731,27.25965 -5.01012,5.66024 1.94542,-27.89829 -6.1345,4.23209 -5.35125,14.09976 0.42684,-10.73195 -6.55466,-31.44006 -7.93918,-9.8966 4.69136,25.16695 -9.52268,46.93448 -20.71584,67.75553 -16.4239,9.43395 -34.1723,11.61019 -50.73893,15.75794 -11.81167,5.64108 -20.51833,1.25625 -32.37217,5.4398 -5.56442,-4.57072 -16.8542,3.47158 -23.26502,-3.74402 -13.36674,7.51425 -20.55342,-12.56151 -34.32698,-3.74646 -15.06368,-8.56275 -34.8516,-7.59489 -41.31175,-29.65543 -17.94036,-16.87525 -5.07224,-46.97023 -16.97242,-62.55285 -0.50403,10.9577 -4.047192,30.63398 -4.497396,7.65947 1.520564,-10.27734 -8.036023,-21.61552 -3.826314,-3.74867 0.537871,14.50581 -2.519437,20.20433 -3.974775,3.1182 -0.456195,-13.7326 -7.884411,-20.7977 -4.137741,-2.78871 0.22395,12.26933 -2.630063,22.76479 -3.557369,5.08903 2.212301,-15.69742 -10.897387,-15.54152 -4.593611,-0.47003 4.643443,38.9062 -4.733268,83.36357 23.228156,115.73319 30.12853,36.34807 78.78667,54.67723 125.47374,50.3094 4.00841,-0.083 8.05867,-0.0509 12.01405,-0.75105 z m -24.07837,-9.13993 c -1.02148,-8.85131 -20.52081,-35.15978 -23.00868,-24.27449 16.36605,13.58975 -11.6147,33.22815 -14.64763,18.23013 7.55998,15.56254 26.54442,-16.18295 9.43791,0.006 -11.41674,-0.63224 -11.88838,-8.60536 -0.62847,-1.89272 16.53677,-11.01238 -1.87096,-23.70952 -12.75704,-10.12187 -23.09008,5.1674 20.28607,-26.01357 -5.1723,-16.0126 -2.10536,14.11487 -41.70951,21.26607 -20.61146,4.61602 9.80824,-7.46008 11.3325,-20.34823 -2.48787,-10.25203 -8.97783,14.79455 -48.525693,3.80219 -19.44503,-4.09621 15.24272,-14.61768 -36.247757,-1.02895 -33.150193,-23.81933 -11.206291,-25.24449 18.380823,13.24443 8.639919,-7.98261 -12.338442,-11.0921 -13.32885,-39.05026 -4.693592,-42.26679 -12.714213,9.61192 3.827595,46.91305 7.673436,25.3701 8.55353,-13.36362 -17.583474,-46.88146 1.92838,-19.21214 6.83072,15.44382 -13.10547,46.60169 7.48584,48.34047 -4.63425,-10.70494 7.18437,-40.66807 1.76159,-14.47915 -3.40681,17.10839 7.37578,-11.94783 2.4124,7.93899 5.91091,25.02924 -0.71422,-36.39497 6.57733,-9.54471 -1.58262,8.7508 -3.44248,33.28576 7.01602,25.75123 -5.61274,-12.12911 0.34771,-32.64155 6.88483,-10.67548 -2.57201,14.03741 24.83424,27.22971 12.27896,7.06118 -6.32885,-29.52172 17.5222,7.64554 22.02241,16.74479 12.0413,9.46743 -5.0916,-35.97528 13.50092,-10.91797 3.31395,9.84338 0.53914,29.42274 14.52187,13.57956 11.45101,-7.94589 14.12861,-32.27538 21.65904,-7.93201 7.45606,10.7997 25.05937,22.51125 20.23907,-0.29037 4.99717,-16.02478 16.80525,-14.47773 11.24748,2.83218 -1.63004,16.33405 15.43183,-15.25065 18.94168,-20.49788 22.97707,-22.53221 -9.57323,32.74146 13.52422,14.35623 4.86601,-10.09065 15.86414,-41.5247 14.70542,-12.95176 -5.8918,19.88873 15.26194,4.2992 4.79171,-10.16511 0.3018,-12.49291 8.8409,-20.80369 3.01603,-3.58899 0.71847,18.72504 6.06968,11.63317 3.07631,-1.76093 9.07442,23.83747 -2.39044,-31.40832 4.28691,-2.64101 3.43381,10.00034 -2.92963,29.22239 8.94295,10.8285 10.07018,-15.56212 -15.26766,-36.70231 6.2805,-51.71187 -15.2872,14.67421 0.64989,56.57403 8.09121,20.4899 -1.65154,-7.06744 -10.42141,-31.60608 -2.01329,-10.80702 15.74448,13.82261 -16.52657,36.33757 -6.91399,42.05266 20.77775,-22.95339 1.52655,28.43588 -17.02141,17.38039 -19.00654,-1.5794 -11.74252,12.53927 4.16114,14.41299 -12.07537,20.47893 -38.28885,-13.50295 -42.64574,-1.85346 9.00002,9.77324 25.35685,26.96083 -0.31009,18.15945 -5.20981,-8.54511 -31.23259,-23.63344 -15.66108,-5.27569 16.57652,16.94335 -11.36785,3.94234 -18.35337,2.58234 -10.87766,10.96372 9.33396,20.53027 11.95135,13.65054 -3.45709,14.93435 -27.36208,-12.64424 -10.40879,7.44684 8.69212,2.58292 17.83331,-6.39042 4.08913,3.03278 -26.64983,2.40526 5.17995,-42.39283 -17.54474,-21.5698 -5.90935,3.96138 -10.84277,23.09717 -13.6712,21.72792 z m 1.59117,-6.77495 c 6.03044,-16.15664 28.52411,-23.03778 6.02259,-35.43087 -8.70511,-25.57978 -13.13972,6.20137 -27.55965,12.1845 9.11473,5.30257 16.88023,17.89591 21.53706,23.24637 z m -2.68692,-6.79716 c -9.59204,-9.65283 -11.98332,-24.42487 -3.21865,-23.01129 -12.41507,5.12604 8.02894,30.82386 10.75138,9.92815 11.49923,-3.78972 -13.02927,-18.92331 2.69701,-7.15866 9.27972,1.58052 -8.8789,18.58884 -10.22974,20.2418 z m -62.87275,-9.30536 c 11.14588,-6.3077 17.59124,-18.74862 3.07484,-4.70682 0.47151,-6.65532 14.95166,-18.83261 0.87141,-6.79999 0.34262,3.24706 -16.3879,16.66359 -3.94625,11.50681 z m 133.57448,0.74174 c -3.88068,-8.98551 -24.85086,-27.56549 -8.79203,-8.62704 1.7429,8.5094 -18.4164,-15.35601 -3.94429,2.70036 3.11256,3.52702 7.84704,6.4857 12.73632,5.92668 z M 129.29198,529.76857 c 16.09985,-6.19859 10.16556,-8.49786 -1.57478,-3.66584 29.02188,-18.48348 -32.412941,7.60257 -1.13469,4.19953 l 2.70971,-0.53403 z m 180.46991,-0.0385 c 1.53695,-5.35747 -33.14276,-18.04735 -9.9212,-3.93244 -8.18372,-2.17091 -18.57877,-3.98257 -4.41023,2.97656 4.49912,1.76767 9.65329,2.47517 14.33143,0.95588 z m -60.72641,-11.69201 c 1.95013,-7.37372 -2.26449,2.60883 0,0 z m -69.13,-2.16935 c 3.08045,-4.83567 -6.25644,-8.519 -1.40055,2.24524 0.77661,1.99721 1.42728,-3.21228 1.40055,-2.24524 z m -1.24237,-3.06298 c -1.08459,-1.59445 1.54945,0.29992 0,0 z m -22.23361,3.07369 c -7.43166,-18.84794 10.88877,11.27801 1.80754,-7.73813 -9.25803,-20.67998 -9.31967,5.65339 -1.80742,7.73852 z m 89.90592,-0.17419 c -0.7044,-2.95883 -1.01308,3.78806 0,0 z m 25.91672,0.12183 c 7.75197,-9.89156 6.01303,-28.48567 -2.70064,-7.85617 -8.84582,18.65831 9.27398,-11.42858 1.30859,8.99808 l 1.39205,-1.14245 z m -90.3037,0.38283 c -0.86861,-1.25439 -0.42556,1.28751 0,0 z m 64.97485,-2.11299 c -0.4262,-1.28752 -0.86842,1.25458 0,0 z m 2.2837,-0.79241 c -0.41473,-1.81998 -0.48235,2.44497 0,0 z m -1.28934,-0.66195 c 5.0614,-5.1918 -2.92676,1.84707 0,0 z m -112.2583,-2.8599 c -0.51489,-13.54741 -8.78022,-23.09021 -5.65241,-3.65829 1.68102,3.20396 0.91915,-11.37382 4.31319,2.72565 l 1.21672,1.7249 0.12242,-0.7923 z m 157.67047,-1.27801 c 3.96297,-16.93105 3.55432,12.05268 4.19866,-9.94524 0.83199,-20.23473 -8.8562,19.75628 -4.19866,9.94524 z m -180.40605,0.91253 c -15.600407,-8.75842 -15.247019,-7.89305 -9.29097,-8.59163 -24.567735,-18.25233 -3.706171,13.12007 9.29097,8.59163 z m 209.50698,-0.72109 c 12.90584,-4.96534 18.23342,-21.99503 1.25539,-7.24644 -0.416,1.27914 15.30149,-4.65937 -0.8731,3.26952 -5.43749,0.79547 -17.56506,8.92935 -0.38217,3.97692 z m 8.48174,-66.92483 c 1.13168,-5.6742 1.80883,0.76879 0,0 z m -121.26117,55.93797 c 6.77165,-2.7897 18.37601,1.30729 23.57875,-6.59366 8.62824,14.25898 21.17689,-10.52759 32.84099,-0.90084 7.2189,-10.13815 18.68866,-1.21424 25.93109,-10.57235 19.26403,-3.83069 -5.75341,-12.96975 -9.78,0.10201 -10.55923,-8.51615 -19.03658,8.49625 -29.84091,3.00399 -8.8476,15.39152 -21.91614,-4.9082 -32.0607,7.39606 -7.9879,-5.58877 -18.84509,1.77183 -26.24053,-3.84098 -13.6687,10.72726 -18.78723,-10.81088 -32.75441,-3.33129 -6.04111,-12.64445 -18.06426,1.60281 -25.56174,-9.73658 -19.50767,0.0179 6.91061,11.04146 12.98107,12.59438 7.81032,-2.84586 17.43607,8.58471 26.56713,3.43195 12.85585,16.20099 19.6927,-7.69067 29.71491,9.09066 l 4.6234,-0.64369 z m -1.01823,-10.54853 c 6.89435,-4.79274 7.2452,-28.88621 -1.54216,-28.20436 -17.97535,-5.45928 -12.01587,20.64171 -5.15381,28.52549 2.03308,1.39921 4.6904,0.61569 6.69597,-0.32092 z m 15.84904,0.68021 c 15.57259,-10.07803 5.93105,-42.38937 -10.79522,-25.74041 1.48496,8.67478 -4.50268,28.3158 10.79522,25.74041 z m -33.95651,-2.0561 c 13.24131,-9.49583 0.72307,-39.42328 -15.90366,-25.46472 -0.0126,9.46384 0.30498,31.90823 15.90366,25.46472 z m 55.41702,0.18563 c 14.69516,-12.81234 5.13332,-39.43499 -12.14128,-24.33415 1.49872,10.96057 -7.80168,29.25875 12.14128,24.33415 z m -76.91484,-5.68994 c 10.6804,-7.07585 3.86849,-31.80265 -12.69892,-23.66895 -1.29136,8.5046 -0.7412,27.70724 12.69892,23.66895 z m 94.81252,0.31708 c 16.36924,-8.46605 5.43492,-37.15115 -9.26219,-19.88859 0.49895,8.1111 -4.97276,22.44244 9.26219,19.88859 z m 19.02636,-3.43948 c 11.98597,-9.71467 3.93317,-34.2834 -9.08819,-18.81293 0.0511,7.08759 -2.59166,20.68101 9.08819,18.81293 z m -133.24045,-1.67673 c 15.78293,-8.26173 -8.53356,-35.42426 -10.49684,-13.71498 0.40834,6.19227 1.31294,17.08516 10.49684,13.71498 z m -14.60796,-5.03242 c 10.83173,-8.74874 -7.64664,-22.42621 -2.68444,-19.02945 20.4408,-2.71128 -5.21492,-35.54639 -5.32269,-9.69498 1.30579,8.717 -8.63952,31.96255 8.00713,28.72443 z m 162.41508,0.51425 c 18.10577,-18.70873 -13.67451,-26.53862 -7.18234,-2.82358 1.00324,2.08265 4.5774,4.68961 7.18234,2.82358 z M 212.86143,456.2688 c 8.27929,-14.34997 -9.77821,-38.59939 -16.54941,-14.25178 -6.02822,17.0311 4.16767,14.64469 16.54941,14.25178 z m 12.21994,-0.14487 c 16.57973,1.75075 3.01251,-37.84796 -10.38905,-20.71725 7.96799,-15.82923 17.36217,8.26776 26.76415,-5.06531 10.85,2.15566 10.63426,14.19868 19.07785,1.72222 9.96649,6.95678 17.78941,-3.93247 26.32947,2.06574 7.30381,-3.01409 21.5127,-8.25401 5.17384,-10.69263 -7.22489,6.35995 -17.79981,-2.09417 -23.97126,5.12343 -10.57124,-12.05225 -18.33345,11.27215 -26.84406,-5.64539 -10.36635,3.75694 -10.73538,5.77758 -20.98217,-0.85345 -7.82488,6.24756 -18.45851,-3.86513 -24.21332,5.75169 -8.92429,-15.70475 -18.48218,12.28905 -27.7318,-3.53811 -10.10334,8.99296 -17.48059,-3.26828 -28.25363,1.83057 -10.36507,-9.24346 -19.05011,8.10417 -2.93333,4.52486 5.24114,5.86705 16.09659,-1.42524 20.77302,4.45592 11.38509,-11.32405 16.3009,13.81497 23.35301,-3.72167 11.32224,-1.77718 14.48864,6.72897 24.07182,-2.1092 20.89762,1.43313 -4.84862,34.75284 19.77546,26.86858 z m -31.23698,-0.55935 c 10.04204,-17.86373 -15.56245,-34.59725 -18.99292,-10.39531 -5.45049,15.44388 10.38842,9.69269 18.99292,10.39531 z m 57.03288,-0.13886 c 13.84079,-16.15896 -23.34761,-36.17416 -17.63035,-7.49468 -3.43457,13.22532 10.26369,6.19133 17.63035,7.49468 z M 173.21588,453.346 c 7.4542,-27.735 -28.05961,-18.65519 -14.28984,0.30708 3.15371,-0.88153 13.40546,4.54126 14.28984,-0.30708 z m 92.01292,1.02149 c 19.50438,-4.13046 -9.19718,-35.84677 -11.38721,-8.56499 -1.17095,11.56875 2.52271,9.66771 11.38721,8.56499 z m 17.35154,-2.22332 c 17.42625,-2.72216 -9.74236,-34.51067 -10.29846,-9.10726 -0.20737,10.41462 0.52573,11.3137 10.29846,9.10726 z m -128.29455,0.34109 c 8.18831,-21.68212 -18.81542,-25.68435 -14.77881,-1.25166 4.85775,0.56134 9.92688,1.95616 14.77881,1.25166 z m 146.49185,-3.1892 c 7.37667,-14.13895 -13.10012,-26.86904 -12.6824,-7.88712 -3.08919,10.89279 9.47204,13.015 12.6824,7.88712 z M 178.72563,426.66934 c 10.34146,-14.11178 18.24572,4.52353 29.24022,-6.53684 7.22541,1.97868 18.62209,1.26034 23.76741,4.4634 9.33498,-12.96477 17.97777,11.01591 27.68795,-2.22888 12.94514,4.69516 30.91313,2.21262 42.06993,-3.35717 -1.35874,-14.4486 27.75935,-28.93084 1.56891,-28.66994 -19.45415,-9.70011 -38.56473,19.70776 -44.89333,20.80217 5.13613,-8.44016 37.67603,-30.60897 26.77318,-23.26106 -19.64602,-5.09858 -42.17598,16.48892 -33.8168,25.59573 -13.54423,-24.27848 29.91571,-30.82989 46.40488,-26.72843 -11.71756,-6.90308 -22.43961,-11.05699 -3.80789,-16.11113 11.13985,-14.3219 36.3705,-12.56497 46.32705,-9.55773 -6.4312,-8.93069 19.84724,19.86408 24.08016,-0.81683 3.17508,-19.11467 -28.18696,-4.04333 -29.64421,-10.59463 13.91838,3.02524 25.74089,-7.82131 21.36026,-14.42033 -3.60503,19.1421 30.18348,25.89953 17.78489,4.17084 -10.72556,-6.04425 -27.03008,-11.56783 -4.02533,-5.29796 -5.0723,-10.21696 5.54345,-39.39711 9.39094,-51.72544 3.00889,16.01553 -20.89974,44.08896 -2.15066,51.24903 -3.45204,-7.64385 8.47365,-5.07287 -1.42183,-14.90387 21.74529,14.97146 -10.33752,-20.42927 7.67756,-3.72955 15.76598,7.50945 -18.24598,-21.54147 3.44612,-5.02308 -5.20699,-21.15648 4.91255,12.92746 7.07189,-8.69415 -6.61225,-9.64236 -20.07513,-22.72329 -3.5847,-8.04504 13.36119,9.82613 -9.06751,-20.59564 -11.60679,-27.31859 -19.62119,-30.87054 -23.55439,-73.84616 -2.59377,-104.97556 -8.90846,23.23743 -12.05304,49.19771 -4.96985,73.34665 7.59923,19.25289 27.62154,-1.35417 20.14896,-8.09993 -11.52563,15.7403 -20.63623,-4.30852 -2.69771,-8.88172 -19.5933,15.18747 2.79188,14.92979 6.36867,-1.42024 2.22754,-6.91112 5.8165,-35.47717 -1.11274,-12.99855 -8.1456,21.25084 -28.88528,-2.01634 -6.59405,-8.71244 16.27575,-3.1964 8.58292,-50.22111 5.492,-18.88214 0.45109,18.37769 -32.25981,22.46984 -15.18134,3.04808 16.99416,-16.32134 13.44948,-44.49847 2.51371,-63.25161 C 355.69947,67.081685 309.23182,31.075886 255.97006,22.209576 205.2763,10.748833 149.80232,20.712978 106.04002,48.569223 76.175308,68.793804 53.141167,98.705756 40.252901,132.3046 c -8.280708,22.1691 6.019024,40.66751 14.984955,57.26949 -20.173461,16.91882 -24.536422,-54.54723 -24.612667,-13.18078 -3.66432,13.65459 38.567542,32.81866 10.275692,34.70398 -9.079134,-5.95867 -12.793924,-28.76688 -10.11963,-6.07025 -5.6676,12.23058 25.281125,36.01911 11.997351,16.21848 -13.887954,-16.01284 22.768439,18.35052 -1.959136,9.26316 -14.231397,-15.62462 1.354404,27.83302 12.971026,6.83756 11.493303,-20.87985 6.944162,-47.87835 -0.0804,-69.90169 -3.253876,-14.21456 12.531691,20.83799 11.377635,28.99829 4.743288,33.62003 -10.641029,65.22389 -29.136537,92.20112 -13.965281,27.33577 22.18063,-27.12063 15.123852,5.03845 7.922585,11.90381 9.704659,32.49632 6.623175,40.50212 12.730503,-7.07881 17.723378,-0.95516 13.883356,12.288 11.046296,-0.19159 34.026247,8.26504 10.638472,3.91704 -24.926721,-11.76251 -20.815526,31.17776 0.645106,12.98795 4.784874,-4.89542 9.210676,-9.32486 3.803717,-0.38347 18.699372,-14.14116 49.812402,6.0058 57.081132,14.98351 -9.03263,4.72452 -21.93221,13.27303 -2.50758,8.25424 18.49888,-7.77215 48.55916,18.15886 34.81549,26.57592 15.56014,-17.89224 -35.23697,-30.23661 -31.23736,-22.52015 11.59881,3.6724 36.70851,35.72142 14.94622,13.46726 -7.0772,-16.40692 -45.1833,-18.27252 -45.83063,-7.38177 12.54954,10.33459 7.45481,30.58157 26.82112,27.93941 11.37577,-2.45313 20.00132,2.98065 31.75717,-0.91914 2.00883,-1.24994 3.99705,7.30348 6.21133,3.27601 z m -27.68488,-10.10202 c -7.06324,-6.40726 -18.55105,-23.27529 -21.00874,-24.16443 10.23403,-2.82901 38.46904,20.14931 21.00874,24.16443 z m 2.76173,-1.64367 c 1.20926,-14.83579 -28.4324,-27.9643 -9.16173,-6.69586 1.87241,2.88802 4.86688,8.89388 9.16173,6.69586 z m 119.07557,1.95654 c -13.03153,-19.3233 46.63578,-33.61269 16.52004,-16.50848 -5.44797,5.0338 -7.24216,17.59482 -16.52004,16.50848 z m 6.08838,-3.59285 c 5.71858,-8.12975 19.3414,-26.03772 1.67565,-12.53819 -4.66921,1.46795 -12.35452,20.66608 -1.67565,12.53819 z m -143.15203,1.46177 c -14.221,-11.53615 9.63384,5.46546 0.20289,-9.13212 -3.03529,-8.43883 -21.12016,-14.74866 -8.52909,-1.14418 -23.4847,-23.02067 26.40049,2.13122 8.32588,10.2763 z m 153.10773,-0.30567 c -7.02703,-16.14975 32.96591,-28.6824 9.69105,-7.57761 -2.54017,2.34057 -5.18148,10.25969 -9.69105,7.57761 z m 3.8013,-1.72845 c 9.60104,-7.29196 17.47283,-26.69254 0.77354,-10.05648 -2.09853,1.67781 -7.94711,12.31259 -0.77354,10.05648 z m -82.29785,-9.11188 c -1.18705,-1.52595 2.74989,1.99987 0,0 z m 6.88846,0.30254 c 3.18475,-2.59141 1.08739,0.0223 0,0 z m -33.66329,-7.90026 c -17.75783,-7.09271 -1.2229,-20.38934 9.87373,-9.24724 12.0501,-4.15103 18.74646,-11.86396 6.59924,3.13891 -4.1447,4.41547 -10.24297,7.73506 -16.47297,6.10833 z m 7.16938,-3.09207 c 21.36921,-4.76389 -7.47818,-9.08972 -13.08338,-7.42093 -1.42797,6.67398 8.41684,8.76332 13.08338,7.42093 z m 46.28347,3.16767 c -9.20221,-1.01807 -26.89445,-27.39931 -8.38363,-10.7596 8.86725,2.49517 32.5276,-8.71831 18.82004,9.00492 -3.09463,1.84947 -6.90027,2.58832 -10.43641,1.75468 z m 6.87328,-3.47692 c 16.64906,-13.79715 -11.28448,-3.44204 -16.90116,-5.25104 4.2668,4.37216 10.80487,7.30268 16.90116,5.25104 z m -34.03461,1.75496 c 2.64845,-2.5626 -1.82533,2.50884 0,0 z m 8.06627,-0.0511 c -1.91435,-2.07876 2.92553,1.80867 0,0 z m -31.08126,-18.99199 c -23.19371,-15.72527 1.80413,-42.95894 9.6596,-61.0192 3.23339,-7.63666 10.13189,-31.70608 11.2721,-8.73157 2.30072,22.64988 9.709,54.18245 -12.5555,69.07888 l -4.04356,0.93024 -4.33252,-0.25833 z m 47.58504,0.0287 c -25.14702,-11.48401 -16.39061,-45.80348 -15.15757,-67.86171 3.31928,-29.76739 11.53503,15.5509 20.45747,23.45541 9.72519,10.91278 19.29648,45.91623 -5.2999,44.4063 z M 117.4308,349.04191 c 1.54375,-0.50428 0.15247,0.67792 0,0 z m 208.50011,-10.94047 c -1.22209,-1.501 2.30135,1.81614 0,0 z m 7.15662,-2.72927 c 0.38409,-1.67234 0.20673,2.12112 0,0 z M 100.2949,335.1961 c 0.30818,-1.58743 0.30818,1.5873 0,0 z m -8.1448,-1.30096 c 1.142698,-2.59189 1.566991,-0.99377 0,0 z m 239.76704,-1.4283 c -1.22215,-1.50096 2.30129,1.81613 0,0 z M 98.785588,332.11465 c -1.066848,-1.63794 1.943242,2.13425 0,0 z m 157.140062,0.16441 c 1.50702,-1.65191 1.67431,-0.28034 0,0 z m 2.63448,-2.46877 c 1.23414,-1.60696 -0.44598,1.46548 0,0 z m -143.44664,-7.15466 c -33.59112,-1.99468 -58.094326,-41.07854 -42.608564,-71.57889 15.362285,-32.5636 60.618214,-40.7789 89.493464,-21.56393 35.92038,18.5181 27.07915,79.2799 -11.19806,89.51289 -11.4142,3.86631 -23.73054,5.02756 -35.68684,3.62993 z m 0.70406,-9.85399 c 15.82823,-22.12842 -0.64448,-7.00909 -6.07339,-8.30117 -7.7264,-12.08206 -13.547809,19.43501 6.07339,8.30117 z m 32.63228,0.5223 c 14.5072,-8.33689 -16.50629,-21.15069 -4.81845,-4.57545 -11.80255,-21.18793 -9.79768,14.45397 4.81845,4.57545 z m -17.57453,-3.30633 c 13.15014,-11.17301 -4.76734,-40.94698 -3.56078,-12.30198 -0.40003,-10.58998 -4.32703,-21.96476 -9.32355,-4.63606 -3.37458,8.22385 2.47586,21.87339 12.88433,16.93804 z m -26.57978,-8.7632 c 13.0124,-1.53264 20.77244,-33.26566 4.2753,-13.84565 -13.836066,11.93042 15.18926,-16.2777 -2.73783,-7.01528 -10.80966,3.55245 -23.877977,25.85398 -1.53747,20.86093 z m 53.03979,-0.36292 c 19.28616,-13.09148 -35.97077,-35.28299 -11.56289,-13.07571 3.94365,6.9425 -18.95626,-16.00122 -6.93402,3.79892 3.61104,6.19008 11.14563,11.16057 18.49691,9.27679 z m 12.66492,-7.10648 c 12.14733,-14.44226 -19.50232,-18.62008 -4.42396,-6.4245 -11.42338,-5.14723 -1.29915,13.80863 4.42396,6.4245 z m -78.751798,-3.56613 c 2.804199,-8.23945 -7.262064,-3.19102 1.408641,-9.15264 -17.888814,-18.05764 -20.37163,22.17419 -1.408641,9.15264 z m 38.897028,-10.65169 c 21.80272,-22.32356 -29.99437,-17.21565 -5.19042,0.88938 l 2.53616,0.01 2.654,-0.89778 z m -26.85145,-0.38205 c 18.36109,-3.91785 7.31186,-6.11252 -4.200332,-6.39107 -4.158834,-3.38117 25.424952,0.57711 5.065572,-8.13132 -13.909702,-7.67137 -32.314745,10.39766 -9.652216,14.3922 l 4.358427,0.38385 4.429129,-0.25329 z m 59.34624,-1.03077 c 23.81967,-16.76469 -26.59719,-20.5883 -19.4216,-8.72939 18.58866,-1.24389 5.27048,4.05097 -4.23076,3.76522 5.01835,5.3739 16.509,6.9371 23.65236,4.96417 z m -48.83747,-12.69933 c -7.76409,-7.75539 -13.66145,-18.82201 0.0574,-4.61597 14.07603,-7.68662 -32.101575,-33.98758 -17.921498,-6.56273 4.504088,5.07769 12.014498,8.82997 17.864008,11.1787 z m 28.71244,-2.75212 c 16.57224,-3.58521 17.74488,-32.55703 -1.42497,-18.5197 -12.36052,7.32222 -9.66861,24.76219 1.8728,8.72209 12.75141,-9.73059 -18.12266,22.05148 -0.4479,9.79761 z m -54.474014,-0.58386 c 10.4507,-0.2376 -13.595403,-14.95663 1.95741,-5.63272 15.552424,5.64382 -9.815599,-24.85306 -11.950117,-3.86643 0.10723,4.62265 4.511554,11.84418 9.992707,9.49915 z m 80.706564,-0.44305 c 12.13369,-13.57722 -16.55465,-21.32443 -12.68169,-5.16046 16.77445,-8.7166 -7.38835,6.23506 10.37356,4.53823 l 1.64375,0.807 0.66445,-0.18465 z m -46.37535,-2.54781 c -0.80939,-13.76624 4.56191,-23.33741 3.13936,-3.70493 13.44491,5.63912 3.903,-45.44169 -8.47305,-16.89642 -0.92956,4.85051 -1.47958,20.91993 5.33369,20.60135 z m 16.65164,-16.37268 c 23.27376,-3.45799 -4.01747,-29.54683 -7.24442,-10.33089 -0.31264,16.90579 12.4936,-6.07839 4.2016,11.08231 -1.49706,3.04719 4.37374,0.10834 3.04282,-0.75142 z M 109.97473,241.682 c -5.3015,-16.30077 5.788,9.25411 7.67989,-9.45269 -2.60768,-19.96176 -31.981142,7.48325 -7.67989,9.45269 z m 138.5204,81.40898 c 1.19005,-1.42861 1.66525,-0.97276 0,0 z m 49.65574,-0.44222 c -25.70074,0.83453 -50.78172,-16.80261 -54.5741,-43.00946 -6.82965,-25.77665 11.92681,-50.75946 36.78866,-56.70617 35.26901,-14.61288 82.7224,12.92371 79.27839,53.10391 -1.89998,29.90385 -32.94996,50.58349 -61.49295,46.61172 z m 23.41873,-8.57708 c 12.0438,-10.16755 -7.52238,-13.84116 -5.10638,-8.63836 -10.68811,-7.80587 -8.99402,16.86845 5.10638,8.63836 z m -34.51198,-0.32094 c 10.23633,-6.79382 -0.1978,-16.77303 -3.88985,-5.4743 12.86612,-17.71086 -20.674,-0.31737 -3.06604,5.64092 l 3.57563,0.46717 3.38007,-0.63376 z m 16.51018,-2.8369 c 16.67888,-8.89733 -4.46524,-43.62926 -2.957,-13.27204 0.52255,-12.82635 -7.56554,-19.01789 -8.57477,-2.22222 -1.44316,7.32319 2.1469,18.07869 11.53177,15.49426 z m 27.30968,-8.81276 c 19.73898,-11.18045 -31.378,-35.43694 -8.82316,-13.552 3.28563,5.80634 -22.15965,-19.92095 -10.90899,1.33789 2.77517,7.16194 11.96958,13.05113 19.73215,12.21411 z m -53.83056,-1.27306 c 13.77691,-2.00572 20.44882,-30.26883 3.29184,-9.89788 5.71519,-8.86966 15.41282,-18.28312 -3.19045,-10.12045 -9.62682,2.59544 -17.47993,24.39338 -0.10154,20.01833 z m -21.154,-0.14249 c -0.86856,-1.25457 -0.4262,1.28761 0,0 z m 7.81571,-5.8575 c 9.7869,-11.9022 -9.02624,-4.45064 3.45575,-12.97882 -11.98623,-12.00992 -18.12207,16.68876 -3.45575,12.97882 z m 78.15747,-2.05206 c 19.16141,-2.46691 -1.06774,-27.3364 -6.81153,-9.97866 14.30911,-1.97707 -11.63852,8.39863 6.81153,9.97866 z m -37.84447,-12.89138 c 20.20511,-14.1681 -19.65929,-27.07563 -10.5235,-3.74944 1.83559,3.7203 6.72276,5.60051 10.5235,3.74944 z m 33.15936,-1.34998 c 19.38085,-9.47278 -5.43663,-20.32649 -15.61011,-12.78294 -20.22342,8.93145 25.4756,3.21509 0.42174,8.11405 -25.45353,-1.24997 10.56587,9.32509 15.18856,4.66889 z m -57.86786,-0.58999 c 26.85215,-4.99365 -19.61936,-7.11253 0.64594,-8.58405 23.36443,-3.27884 -36.33119,-16.77218 -18.37954,6.45975 4.93681,4.13118 11.90101,3.50136 17.7336,2.1243 z m 36.77027,-13.12956 c 16.089,-0.0655 26.76002,-32.64629 4.77053,-19.97531 -10.30771,4.60295 -15.13183,25.15884 -0.95416,10.6317 13.59349,-12.15232 -13.34281,16.26438 -3.81637,9.34361 z m -25.9688,-0.28054 c -1.17212,-4.52535 -16.39857,-22.44233 -2.18907,-7.94403 21.96742,12.29107 -14.2287,-35.06351 -16.95302,-8.94104 3.4107,6.83669 11.52655,16.20413 19.14209,16.88507 z m 53.79617,-2.5722 c 18.60155,-13.51093 -15.48103,-24.82529 -11.21053,-3.53592 12.70556,-6.12488 9.09025,-4.61132 3.96204,2.97943 2.24018,0.61423 5.09802,2.69396 7.24849,0.55649 z m -82.78902,-1.12953 c 20.30874,3.74845 -8.69624,-14.36923 10.82752,-4.30696 -0.27691,-21.933 -27.48807,-1.21684 -10.82752,4.30696 z m 46.83256,-2.22079 c 13.18048,-12.37586 -8.64472,-43.70515 -12.75399,-17.54021 -1.66436,10.34165 8.25703,26.24763 6.94059,6.40233 3.128,-17.32737 -0.27307,16.53708 5.8134,11.13788 z m -16.42272,-14.81321 c -8.13573,-16.05384 5.87234,5.23826 4.72939,-13.55638 -14.07176,-15.70494 -27.51351,10.99412 -4.72939,13.55638 z m 30.92161,-3.43002 c 17.95487,-13.036 -26.39506,-21.70078 -9.13844,-0.69835 3.28839,2.02371 8.47068,-11.90099 4.06245,2.25306 l 1.30195,0.12605 3.77411,-1.68086 z m -137.89166,67.51912 c -1.8023,-1.4155 2.89759,1.51054 0,0 z m 4.80426,0.44796 c 4.32297,-3.61847 0.14488,0.60154 0,0 z m 52.45531,-2.18936 c 0.28711,-1.96715 1.23407,-0.47884 0,0 z m -51.45334,-5.37029 c -3.1962,-3.31515 3.67746,3.17769 0,0 z m 43.69504,0.4833 c 1.19006,-1.42854 1.66532,-0.97278 0,0 z m -21.30627,-32.17802 c 0.64543,-23.3197 -30.17078,-47.22002 -9.58125,-68.1632 30.75788,-12.63877 26.51769,34.47047 16.44852,50.55191 -2.32495,4.44641 -6.50913,17.48267 -6.86727,17.61129 z m 3.18772,-22.43897 c 0.46575,-10.49145 1.6465,-38.48179 3.00007,-11.28031 10.37757,8.41831 8.50406,-55.66083 -17.03688,-30.84975 -11.73421,8.68084 8.51633,51.5293 4.77073,20.30649 2.83509,-9.87789 3.72277,35.21154 4.76447,9.50396 -0.50084,-12.508 1.56011,-28.42776 2.19392,-6.32889 1.10119,2.57873 -0.42684,21.75505 2.30769,18.6485 z m -14.53325,15.4832 c -8.74806,-24.03812 -28.64666,-44.24431 -51.10515,-56.02135 -24.54065,-10.81871 -51.997136,0.7538 -71.823579,15.04997 13.213855,-30.04124 56.647309,-46.07826 84.301589,-25.24868 22.94887,13.91902 37.20631,41.212 38.62714,66.22006 z m -8.38554,-23.3299 c -16.4805,-32.41958 -61.10553,-56.62714 -94.729762,-34.57435 -12.489518,9.14104 21.005952,-7.71248 30.158982,-5.22457 27.9801,-1.17416 48.68232,21.20762 64.84992,41.11847 l -0.27946,-1.31929 z m -5.26907,-13.3618 c -15.14709,-26.33533 -49.16913,-46.8186 -78.82559,-30.92075 -18.764721,10.50973 18.87532,-5.73733 28.54411,0.19179 20.91689,3.76214 38.47166,17.6691 51.76742,33.65087 l -1.48601,-2.92217 z m 37.98979,35.28405 c 3.90334,-34.57218 28.97135,-70.63743 65.61251,-74.26561 20.62086,-5.13782 58.81982,23.13579 54.19679,33.15427 -23.73081,-20.3638 -62.2062,-25.6138 -86.01107,-2.24227 -13.79471,11.11709 -29.10144,30.95605 -33.79823,43.35361 z m 11.85009,-24.65156 c 17.09983,-22.58411 44.15176,-43.91098 74.2244,-35.32436 10.68089,2.76002 34.20005,12.96463 13.01678,0.88297 -33.85585,-17.62981 -75.23591,6.78975 -90.55753,38.11065 l 3.31412,-3.66954 z m 2.04979,-8.20871 c 19.10197,-25.35703 54.22052,-43.46344 85.10971,-28.58767 -2.87176,-6.40137 -37.18977,-17.02408 -51.91652,-4.76556 -13.10681,4.405 -37.49994,32.21889 -33.19281,33.35268 z m -61.92974,-36.08522 c -15.14569,-6.99785 -32.79588,-20.93133 -46.138,-22.96695 6.70773,-18.40239 -10.95129,-22.03216 -20.94903,-20.60386 -5.51301,-0.20831 -14.195034,-1.8913 -18.961743,-2.10777 -9.464998,4.60709 1.165553,-9.40613 -12.003004,-1.9276 -10.191532,4.50764 2.300597,-12.36675 -11.55966,-2.23825 -9.537111,5.48559 -22.615381,14.26609 -9.997764,-1.69088 11.161724,-9.43339 0.590179,-15.2211 17.38645,-24.54914 -2.5687,-5.97274 12.676442,-12.69743 14.149842,-18.874086 11.973219,-2.903899 13.186179,-4.186288 15.925679,-9.723309 12.65333,0.05297 20.09294,5.205778 30.75981,-3.430576 20.61752,12.5636 17.40561,-27.78759 31.11237,-28.957257 17.43556,-8.094346 45.14102,-12.795503 50.31523,6.872762 5.76589,-12.808461 36.51844,-16.197274 43.05619,-10.763981 6.11484,14.468812 14.68451,19.307981 27.37422,18.174418 8.91971,9.731639 18.24027,19.988371 31.2797,20.44389 -11.50185,6.34525 21.89294,5.408644 16.85049,15.204139 9.46519,7.8472 17.815,16.94799 20.29703,25.96324 -1.41073,2.04552 23.03549,30.25037 2.51626,14.5045 -7.59711,-4.04788 -18.35399,-10.08843 -14.31573,0.12589 -4.45478,-1.14849 -16.80762,-6.42366 -10.58258,2.16101 -10.40348,-4.2841 -14.92179,1.84191 -24.17121,0.8006 -15.37131,5.45624 -23.02961,42.60944 -50.62977,36.70735 -16.04038,-12.28961 -32.68302,2.85616 -49.62876,4.02017 -15.16764,-9.18234 -17.20308,6.07239 -32.08602,2.85575 z m 7.53333,-3.41456 c 17.50804,-5.03064 -12.11143,-18.20259 -11.82278,-28.88713 -7.90249,14.09274 1.40979,-16.01025 -12.28741,1.38056 -3.01588,-1.17898 9.76955,-15.63996 -5.05827,-7.15206 -20.83982,17.41764 19.4379,-20.16282 -6.25808,-3.80166 -9.23066,2.55016 20.50805,-14.39195 -1.59927,-7.53517 -9.90251,0.88325 15.12914,-5.34036 0.43895,-13.00204 -27.34261,-4.60768 -22.32739,44.501 -1.15259,42.16645 12.6467,4.80849 23.22534,18.99866 37.73932,16.83105 z m 33.67017,-3.8673 c 21.95272,-4.34177 -10.71568,-12.50339 -2.88101,-26.79359 -12.4913,6.94898 -28.99977,3.62373 -36.17085,0.065 2.73579,17.18272 21.57098,31.88261 39.05186,26.72852 z m 51.06534,-3.88722 c 18.20329,-7.49292 43.38669,-32.22336 23.79165,-49.83399 -0.43386,-17.33914 -26.58079,-19.10664 -18.20443,-3.30163 6.84985,-4.17708 -6.82915,15.01332 6.74929,5.22665 -10.24073,5.22898 -4.87766,16.42054 -1.61383,14.81168 -13.33591,6.97207 4.95537,6.96548 -9.45429,13.90791 -3.84997,9.23396 -26.43711,23.93796 -1.26839,19.18938 z m -21.2837,-3.80899 c 19.63874,-2.5275 28.8271,-35.92973 18.65898,-43.8284 -1.70227,13.99687 -23.97546,4.34295 -18.97098,20.48788 -9.64575,4.16172 -39.38491,2.92242 -22.60117,20.48152 2.29621,4.94887 1.36584,-26.6321 1.77136,-8.01462 0.66591,8.93978 13.44867,14.41466 21.14181,10.87362 z m -28.72866,-15.67179 c -1.31514,-1.61271 -0.46065,3.74954 0,0 z m -23.46441,-1.5054 c 13.45868,-2.81365 24.72892,-8.5091 4.6879,-11.94494 -11.77919,3.32866 -41.11799,-23.11167 -19.44572,-8.9691 7.71086,1.90374 -16.78899,-23.64012 -26.15952,-25.61742 -18.69559,-6.13515 1.40564,29.48355 10.36598,26.4678 -6.25408,19.71556 22.20028,3.20012 22.48485,20.12589 l 3.60612,0.46181 4.46014,-0.52446 z m 25.04494,-1.18488 c 8.07882,-7.21723 30.17799,1.275 25.24241,-17.20565 20.02479,1.88713 15.01711,-17.12078 27.02843,-24.36077 -3.45262,-13.53292 -1.90465,-39.70228 -15.70225,-43.235522 -5.77056,3.860019 -19.32546,24.474538 -8.62191,20.558579 5.14076,-16.181967 -4.89545,25.048703 4.51443,1.765483 7.7577,-25.108206 -7.05026,31.46066 4.20261,2.473814 4.65052,-11.538947 -2.54375,21.315636 5.10122,3.331386 1.99136,-22.73714 1.66417,21.85617 -10.13857,24.54968 -8.69177,10.12372 -32.44567,21.92074 -31.62637,32.123 z m -3.62749,-13.21252 c 1.96031,-17.06619 0.74145,17.74616 9.88207,-1.75572 14.3188,-8.71567 34.4756,-25.51917 16.02239,-40.48139 -4.71616,7.49951 -3.66577,19.37326 -15.26798,20.63051 -2.84031,14.17984 -32.56894,-0.65618 -21.5504,19.22627 0.30497,-25.58459 5.33991,19.53687 5.8164,-3.32895 1.70122,-11.91206 3.22931,22.69104 5.09752,5.70928 z m 88.68292,2.6186 c -1.51526,-3.22827 -2.22748,2.60201 0,0 z m -183.65261,-1.12968 c 10.42996,-4.3468 -0.15436,-26.90765 -8.36555,-7.65738 6.65743,-8.94079 10.85482,-20.7394 -0.98696,-6.1824 -15.043741,16.444 14.45373,-23.47383 -4.17155,-4.40032 -10.763465,13.58481 -6.32094,4.21426 -0.17801,-4.32422 -9.286377,-0.56202 -21.733642,21.24665 -10.692014,2.63021 7.116574,-14.81218 -21.491305,17.18588 -7.484946,-2.87831 -13.942999,6.44579 -12.248383,2.621 -1.162801,-5.01048 6.812727,-4.37379 -8.61642,-7.90056 6.508772,-3.75724 12.702429,0.13239 -14.28587,-13.94156 5.196539,-4.03607 16.4514,7.63181 -16.325143,-21.782798 6.13916,-2.11924 15.44957,12.12241 -12.542029,-20.422456 3.33249,-3.90596 18.1155,19.35894 -10.09374,-18.895964 5.04138,-1.59909 10.8305,11.52702 -5.58389,-7.518539 5.66546,-10.976408 -10.46465,-4.873887 -15.59159,-3.308362 -15.46966,2.180322 -18.882484,0.731312 -15.733129,9.768476 -29.799623,18.402836 15.174377,1.44456 -18.421206,12.7987 -8.094479,18.76554 -7.05773,6.059 -15.518362,18.52977 -0.500849,7.34354 5.095736,-3.30632 18.38546,-6.66926 9.885345,3.1748 11.990641,-3.45256 17.847526,-0.36017 25.063046,1.55345 2.38745,1.36668 11.85417,-0.0402 13.99074,3.81695 l 2.9894,-0.39271 3.09449,-0.62839 z m 195.62692,-1.5342 c -3.1368,-8.06085 12.91091,2.35744 11.02662,-5.49518 10.31488,3.14796 13.93281,3.46366 12.30431,-4.12495 10.29017,1.64913 28.8588,15.17935 12.86931,-1.25298 -7.61561,-6.10476 5.65421,-7.84852 -8.24987,-14.71308 -17.44514,-5.78166 6.51586,-6.46917 -10.9927,-13.76935 -6.23028,-4.45972 -8.67182,-12.597912 -23.61019,-11.405285 4.37878,-20.125092 -19.81263,22.982915 -2.87189,3.449944 -0.0765,6.388841 -12.8714,19.916631 0.96399,6.761211 14.73977,-15.311801 -13.17623,18.38394 4.70776,2.96512 20.54989,-17.585684 -14.99622,14.12788 5.45799,2.95202 19.42724,-11.123173 -12.09266,9.28205 6.88513,3.94945 13.04819,-4.90077 -7.30411,4.8073 8.38196,7.23326 15.87797,15.20506 -14.01758,-7.52831 -1.99198,10.05587 -11.2365,-13.54825 -15.84297,-7.20498 -6.4978,4.02749 -7.82195,-12.69593 -22.55216,-16.02517 -7.81709,0.67708 -6.59378,-7.72075 -21.83874,-20.02628 -8.23388,-3.10747 6.21376,15.15784 -24.75098,-25.86701 -7.78381,-0.35246 10.0328,15.89319 -16.21707,-15.95136 -2.00774,6.38026 3.01277,7.38287 11.27516,3.82579 17.45988,5.76903 z m -123.37313,-6.39335 c -4.74559,-13.99348 2.15373,-25.22178 1.95078,-4.10785 -0.66477,-4.52921 13.49364,-23.82115 23.92665,-27.44692 -6.55125,-20.077983 -24.34809,15.21305 -33.46906,-1.83963 -15.33817,-5.903482 -21.60086,15.31529 -7.58332,22.38953 1.52481,-14.15319 3.98773,-14.7989 3.26274,0.26663 6.61314,13.75889 3.77768,-26.53941 6.30516,-2.47313 0.65111,3.7271 1.08752,13.4759 5.60705,13.21136 z m 7.68364,-6.64334 c 6.53921,-9.92784 23.17162,2.61769 25.31602,-12.50906 14.66354,0.38064 9.83967,-19.03946 14.46129,-28.13668 -8.77396,-1.92243 -3.04754,-19.502453 -17.82438,-11.834012 4.50402,10.931763 9.57181,21.385452 7.24799,22.025762 -6.69458,10.90555 -34.80452,18.81158 -29.20092,30.45399 z m -70.09273,-1.88221 c 13.25529,-3.49957 9.81229,-7.50883 4.65525,-10.90188 17.63851,3.97127 -16.3739,-10.25638 5.12578,-4.54587 -0.6208,-4.68498 -16.56229,-16.578626 -9.91214,-13.18967 16.13969,8.21487 6.54354,-1.24309 5.09593,-5.706403 17.30169,8.844143 1.00253,-21.635879 -10.12487,-5.507067 -14.44818,9.306687 -1.50013,29.26396 2.49591,41.59735 l 2.66427,-1.74634 z m 199.1633,-8.77055 c -7.51278,-9.18898 -44.07168,-8.0687 -34.16037,-1.27609 11.39186,-1.62788 22.84125,1.13409 34.16037,1.27609 z M 97.599809,120.41863 c 11.462941,2.39112 39.390531,-5.98499 13.558541,-5.32514 -3.28495,-1.323 -37.127775,9.21023 -13.558541,5.32514 z m 196.525751,-4.88027 c 16.02075,-17.514172 8.25544,-41.896263 -14.46069,-45.445454 -2.80553,5.122577 4.14137,17.549632 -2.14855,25.538346 10.36953,-11.144241 16.1006,-9.697005 3.07592,1.179869 -11.1085,22.356629 17.04982,-15.169009 3.35022,6.272929 3.43213,3.11156 -4.9412,10.35936 7.58964,14.83171 l 2.59353,-2.37708 z M 164.39687,112.092 c -9.5334,-13.265945 -4.08382,-6.70847 0.99309,-5.29907 -3.66815,-11.088936 -10.43653,-25.901498 0.79122,-6.4617 10.15797,16.17339 -7.50811,-34.430628 6.08526,-5.212753 -5.8372,-17.47024 16.3347,-27.06698 30.85091,-35.253539 28.82575,6.383845 -8.58946,-23.343679 -20.11935,-6.391714 -24.19172,-1.474649 -26.61929,24.009611 -34.97539,42.607647 -0.13207,9.192639 8.1624,16.474959 16.37426,16.011129 z m 35.49473,-4.97834 c 9.5553,-6.2537 21.56253,-16.235386 1.7193,-9.44362 5.583,-7.620508 -24.82773,1.973066 -18.79097,-17.518996 -6.23698,-9.604709 -13.48142,11.469566 -6.03415,14.670639 -2.84407,17.844737 16.85603,-0.374139 19.68422,13.234387 l 3.42181,-0.94178 z m 26.73705,-8.496483 c 0.72326,-10.627467 -5.57113,-27.631998 -14.09241,-11.48244 -9.05911,2.939356 19.34503,-17.104635 1.07514,-22.360962 -19.7367,-16.025068 -36.44974,27.752498 -22.28644,23.481426 -12.96223,-22.930475 42.23684,-29.97799 18.50146,-4.435826 -11.59264,1.331886 -17.07904,-5.126148 -2.64405,-1.364762 -1.4279,-22.826908 -28.76164,12.120586 -1.99965,10.257809 11.56146,-2.574491 20.94057,12.130878 12.47013,-5.435197 4.41673,0.183626 7.52041,17.292475 8.97582,11.339952 z m 49.19893,-13.241538 c 3.3873,-12.915994 -15.86251,-30.15376 -19.59242,-36.504455 -11.89887,4.173952 -52.25908,7.37036 -28.3644,24.910897 9.02344,1.130777 13.07676,-20.528847 9.02868,-1.12442 5.6353,12.747853 12.24476,-24.005621 7.16771,1.992429 -2.46125,28.8617 12.06031,-22.810072 7.7516,-0.644293 1.5872,11.25966 7.08317,-21.638569 11.52761,0.456132 4.14687,1.971643 6.74114,15.220103 12.48122,10.91371 z m -63.79111,-6.245073 c 14.30941,-21.844601 -35.59256,-0.900285 -9.1231,-6.146197 7.5436,-4.430147 5.02945,10.165042 9.1231,6.146197 z M 81.335232,185.17586 c -7.065836,-24.6589 48.639368,2.25173 19.693658,-3.85912 -6.767303,-0.0982 -12.940223,4.9606 -19.693658,3.85912 z m 9.573524,-2.97445 c 15.803764,-1.08245 15.550264,-5.54429 0.271162,-5.71134 -10.723825,0.47482 -12.882276,11.89697 -0.271162,5.71134 z m 249.683444,2.64684 c -11.01541,-5.66498 -36.59105,1.68012 -12.37895,-9.41304 7.41618,-7.6082 31.17211,10.81907 12.37895,9.41304 z m 5.06339,-1.55485 c -3.74056,-13.90499 -37.75125,-2.30745 -11.33782,-1.73869 3.73898,0.92438 7.26439,3.43939 11.33782,1.73869 z m -224.11401,-5.87617 c -7.72049,-19.90554 -45.494839,-0.84795 -43.840244,-19.88119 15.943607,-13.90919 44.371784,9.73476 43.840244,19.88119 z m -7.22831,-9.86925 c -3.33292,-14.39607 -47.333669,-15.78474 -30.142541,-2.26583 8.978967,-0.88079 25.236991,-1.23254 30.142541,2.26583 z m 190.70559,9.9729 c 0.58698,-20.08572 47.58645,-35.80314 44.07487,-12.34813 -15.48934,0.76542 -35.87378,1.13791 -44.07487,12.34813 z m 9.81185,-9.7843 c 7.78079,-6.80743 49.13351,2.31851 27.23451,-11.75179 -7.40252,-4.78977 -33.85641,11.09979 -27.23451,11.75179 z m -4.16537,-84.7341 c -16.01162,-7.7411 13.10437,-26.037276 -13.10464,-22.13762 -10.75867,1.3149 -34.13931,8.040607 -14.0239,-4.972441 19.53691,-18.103321 66.42848,17.55117 29.45402,27.439078 l -2.32605,-0.329285 z m 8.14723,-2.478685 c 25.99514,-26.283897 -43.89597,-31.639451 -39.9652,-17.620868 10.705,-11.686288 52.24319,1.384179 35.84246,13.293139 13.77838,-13.267355 -21.66575,-8.188566 -3.56657,4.594955 l 4.46708,0.579252 3.22128,-0.846161 z m -209.7624,1.808326 C 82.147631,66.497634 125.45161,41.810322 142.3651,55.27426 c 30.39409,20.001972 -21.42064,-3.180062 -25.43427,9.757963 12.05196,4.846208 4.06779,22.748755 -7.88066,17.299898 z m 6.73624,-1.539458 c 16.84359,-9.221315 -12.92235,-21.730868 -4.27178,-5.490827 -10.23168,-0.0079 8.92362,-24.396347 22.61213,-15.803838 13.04,3.102436 24.22747,5.644339 6.24239,-2.696759 C 123.08128,43.727201 78.747832,76.22071 115.78641,80.792663 Z m 35.80952,-35.41474 c -11.80573,-25.769243 53.75241,-3.160781 18.37826,-3.590816 -5.9974,1.433223 -12.01477,5.6289 -18.37826,3.590816 z m 7.28532,-1.576186 c 12.0404,-2.522025 24.4408,-7.611001 4.59756,-9.647461 -7.83402,-2.720332 -20.82341,12.844664 -4.59756,9.647461 z m 108.64348,1.399553 c -7.72747,-6.65683 -34.85236,0.473543 -13.45835,-10.911195 11.60539,-10.744455 39.94294,13.317476 13.45835,10.911195 z m 8.04854,-1.682783 c 4.01606,-16.5534 -41.24171,-5.568059 -14.01389,-2.007373 4.41686,1.616117 9.25739,3.727621 14.01389,2.007373 z m -49.25298,-3.912878 c -1.76254,-14.688844 31.55089,-18.6789 16.01787,-4.47911 -5.51376,1.060977 -11.05094,1.595725 -16.01787,4.47911 z m 7.74744,-4.092459 c 24.99269,-2.426293 -1.25545,-15.207868 -3.9617,0.580094 l 3.96183,-0.580224 z m -35.22804,3.003569 c -13.24763,3.253824 -27.95427,-16.674077 -7.54781,-11.785759 2.01101,-1.065027 14.24525,15.659712 7.54781,11.785759 z m -0.3407,-2.610818 c -4.80792,-15.255103 -27.93398,-3.865657 -7.30152,-0.901615 2.50526,-0.463913 4.81352,1.586859 7.30152,0.901615 z m 13.19684,-3.665128 c -7.60478,-10.824604 11.6954,-13.507876 5.42048,-0.83836 0.001,-19.33744 -6.27002,2.553121 -5.42048,0.83836 z M 117.75294,388.44114 c 9.80149,-4.85244 35.67917,-12.03556 12.04608,-18.61213 -4.8459,-12.18142 -53.598124,-9.80339 -30.080704,-1.17556 -0.761173,11.33679 21.933194,-13.91632 5.232204,4.16283 -17.391292,15.23764 29.5251,-15.23831 7.35794,2.06407 -7.59699,9.69948 24.50688,-14.80268 7.12809,0.79531 15.28069,0.30274 7.68847,0.2605 0.3828,3.46291 22.60572,5.13642 -24.967005,-3.06251 0.005,5.57434 -7.0412,-0.81022 -25.080348,-6.68726 -10.21194,2.62414 -9.792887,-3.16483 -17.724529,-8.34937 -5.89384,1.97215 4.61906,0.63503 9.58337,0.70014 14.03483,-0.86806 z m 206.47162,0.66327 c 12.6958,-11.45064 0.5602,-2.45063 -6.637,-2.30687 22.10764,-12.17512 -26.36637,5.00678 -1.57605,-6.33138 -8.63175,-1.30575 -21.24798,3.65605 -8.75764,-2.4692 -21.15826,-3.34229 3.64971,0.43315 -1.43034,-4.6053 -7.16682,-7.35807 25.39592,14.5489 3.11334,-5.74808 6.3122,8.27303 29.44183,14.62181 9.88642,1.84506 -8.90265,-11.65586 10.41936,10.79822 9.49887,-0.85513 20.21145,-11.28145 -29.71227,-9.00104 -35.53818,4.50456 -17.86897,4.21933 24.6756,20.49357 31.44058,15.96634 z m 9.66153,-3.18582 c 3.19289,-2.87194 -5.65656,1.1082 0,0 z M 95.31746,385.57003 c -2.208663,-2.97275 -3.10644,1.75829 0,0 z m 258.23449,-2.78799 c 21.25383,-15.35954 -33.74635,-24.1758 -19.57283,-5.48473 5.02172,4.2966 13.18816,6.42223 19.57283,5.48473 z m -274.516239,-0.0204 c 17.354904,2.03391 24.786729,-20.73998 3.674279,-15.67888 -9.681183,0.87683 -20.443876,9.23816 -7.728752,15.78281 l 4.054473,-0.1036 z m -11.950258,-3.18071 c 7.647723,-22.54452 -42.11925,-40.45506 -35.633507,-23.22972 18.926943,-11.26392 26.434941,14.28307 30.529226,23.40792 l 4.459491,1.11217 0.64422,-1.28998 z m 298.302847,0.32145 c 4.08804,-10.01314 12.13229,-34.52025 32.20928,-23.52976 1.92569,-26.26458 -55.14737,16.38649 -32.20928,23.52976 z M 56.221052,377.11966 C 65.894379,357.2575 16.78254,350.7938 39.165381,368.45175 c 4.639292,3.24024 11.455582,9.28756 17.055671,8.66791 z m 319.948068,-0.97758 c 11.99446,-2.93567 29.14649,-23.72756 4.85794,-17.15896 -5.86806,0.63949 -16.68869,23.03166 -4.85794,17.15896 z M 63.499996,352.01455 c 10.50161,-7.80053 11.488135,-27.96782 -5.407285,-15.71036 -14.388655,4.29131 -4.756114,26.01737 5.407285,15.71036 z m -34.485443,-2.60101 c -0.405786,-4.22973 -3.751923,-41.23587 -5.442312,-17.35681 1.524439,3.32227 -1.277652,19.67119 5.442312,17.35681 z m 371.912197,-0.21622 c 6.29873,-10.00575 0.85138,-41.19079 -1.10914,-14.28668 5.43452,4.82248 -9.06702,16.41881 1.10914,14.28668 z M 48.970143,345.41154 c 2.796841,-15.19339 -12.923889,-33.29174 -18.35312,-10.38085 -6.158371,12.84723 15.145436,17.09995 18.35312,10.38085 z m 334.068747,2.65418 c 26.6185,8.03163 6.61913,-44.48502 -2.12737,-15.71854 -1.75688,3.04801 -6.52109,20.6782 2.12737,15.71854 z M 54.716651,329.3468 c 8.823538,-12.24954 -8.161951,-35.60014 -7.62671,-43.62692 -7.143741,4.13596 -18.915033,22.39447 -7.789618,21.93157 6.247248,-16.67252 -2.476758,13.54597 9.650747,-4.14718 -7.593808,9.80383 -12.926255,18.29636 2.027946,5.98652 -5.435531,8.07423 -10.608149,16.84876 2.082143,8.63342 -9.085433,11.55745 -4.231699,6.13983 1.655492,11.22259 z m 342.113899,-7.00193 c 9.33141,-21.93309 -6.55407,-5.85954 -2.17376,2.79728 l 2.1737,-2.79721 z M 33.690338,322.85806 C 30.835993,311.56713 25.5819,306.21153 30.507664,320.85567 l 1.905599,2.02301 1.277075,-0.0204 z m 360.271832,-6.38454 c 9.53423,-19.40989 -7.47513,-11.34694 -1.73589,2.17347 l 1.73595,-2.17341 z M 35.97422,316.3149 c 2.089671,-13.75455 -10.182473,-16.6978 -2.643985,-0.99707 l 1.797836,2.27279 0.846149,-1.27552 z M 46.606763,208.77644 c 7.644574,-5.92827 -26.297652,-32.19532 -12.347814,-9.06978 1.64005,4.3028 6.582912,12.78081 12.347814,9.06978 z M 385.921,209.09093 c 11.47905,-9.04902 12.93305,-27.83511 -2.37934,-10.11522 -7.41701,2.54529 -5.51281,13.0679 2.37934,10.11522 z M 52.549715,189.59552 C 47.10417,175.22233 31.080103,160.56309 38.021462,141.50871 c -5.107412,15.18548 -5.274001,45.83943 14.528253,48.08681 z m 326.367385,0.28482 c 16.12933,-8.29204 14.68752,-36.51887 10.94223,-45.20175 8.66218,18.37149 -15.11135,33.95226 -12.87895,45.75002 l 1.93666,-0.54792 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
